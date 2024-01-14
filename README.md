@@ -24,12 +24,14 @@ How to Run
 - Follow the on-screen prompts to enter waypoints.
 
 Example Usage
-- Enter X co-ordinate(negative to end): 1
-- Enter Y co-ordinate: 2
-- Enter Time Stamp (seconds): 100
+Enter X co-ordinate(negative to end): 1
+
+Enter Y co-ordinate: 2
+
+Enter Time Stamp (seconds): 100
   
 ...
-- Enter X co-ordinate(negative to end): -1
+Enter X co-ordinate(negative to end): -1
 
 Contributing
 - Contributions to enhance the functionality or efficiency of this program are welcome. Please feel free to fork this repository and submit pull requests.
