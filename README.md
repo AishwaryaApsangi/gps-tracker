@@ -31,6 +31,7 @@ Enter Y co-ordinate: 2
 Enter Time Stamp (seconds): 100
   
 ...
+
 Enter X co-ordinate(negative to end): -1
 
 Contributing
